@@ -146,5 +146,4 @@
        <a href="#"><img src="assets/img/Logo_TD_fd_transparent2.png"/></a>
        </div>
     </section>
-
 <?php include('assets/inc/footer.php'); ?>
