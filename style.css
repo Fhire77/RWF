@@ -1,6 +1,5 @@
 
-/* Styles de base */
-/* En-tete logo */
+/* -------------------------------------Styles de base------------------------------------- */
 
 body{
   width: 100%;
@@ -9,6 +8,8 @@ body{
 }
 
 .row{border-radius: 0 !important;}
+
+/*------------------------------------- En-tete logo -------------------------------------*/
 
 #header{position:relative;
   top:0;
@@ -40,22 +41,30 @@ body{
   z-index: 1;}
 
 
-/* Menu déroulant */
+/*-------------------------- Menu déroulant----------------------------- */
 nav{position:relative;
   left:0;
   padding:0;
   border-radius: 0 !important;}
 
+.navbar{
+  margin-bottom: 0 !important;
+}
 
-/* Carousel */
+
+/*------------------------------------- Carousel------------------------------------- */
 #myCarousel{position:relative;
-  margin-top:-1.5em;
+
   background-color: rgb(71,86,125);}
 
 
 
 
-/* Bandeau */
+/* --------------------------------------Bandeau ------------------------------------*/
+.jumbotron{
+  margin-bottom: 0em !important;
+}
+
 #bandeau {background-image: url(assets/img/bandeauV4.PNG);
   position:relative;
   height:19.310em/*309px*/;}
@@ -102,7 +111,7 @@ to {transform: scale(1.1);}}
 
 
 
-/* Présentation */
+/*------------------------------------- Présentation---------------------------------------- */
 #presentation1{position: relative;
   top:-2.2em;
   text-align: center;
@@ -121,7 +130,7 @@ to {transform: scale(1.1);}}
 
 
 
-/* Logo E-learning */
+/* -------------------------------------Logo E-learning -------------------------------------*/
 #accescours{position: relative;
   left:0;
   top:-7em;
@@ -159,7 +168,7 @@ to {transform: scale(1.1);}}
   to {transform: scale(1.2);}}
 
 
-  /* Partenaire */
+  /*------------------------------------- Partenaire------------------------------------- */
   #partenaire{position: relative;
   left:0;
   top:-7em;
@@ -179,7 +188,7 @@ to {transform: scale(1.1);}}
   footer p{position: relative;
   top: -2em;}
 
-      /* Styles pour les écrans tablette */
+      /* -------------------------------------Styles pour les écrans tablette------------------------------------- */
      @media all and (max-width:1200px) {
          /* En-tête */
          #reseauxsociaux1{
@@ -192,11 +201,11 @@ to {transform: scale(1.1);}}
              top:50%;
              left:90%;
          }
-         /* Bandeau */
+         /* -------------------------------------Bandeau------------------------------------- */
          #bandeau {
               display:none;
          }
-         /* Présentation */
+         /*------------------------------------- Présentation------------------------------------- */
          #presentation1 img{position: relative;
              top:15em;
              margin-left: -2em;
@@ -221,7 +230,7 @@ to {transform: scale(1.1);}}
              text-align: justify;
              margin-left: -11em;
          }
-         /* Logos E-learning */
+         /*------------------------------------- Logos E-learning -------------------------------------*/
          #accescours{
              height:30em;
          }
@@ -239,7 +248,7 @@ to {transform: scale(1.1);}}
              font-size: 2em;
              margin-top: 2em;
          }
-         /* Partenaires */
+         /*------------------------------------- Partenaires -------------------------------------*/
          #p1, #p2, #p3{
              display: none;
          }
@@ -248,7 +257,7 @@ to {transform: scale(1.1);}}
               margin-left: 2.5em;}
       }
 
-      /* Styles pour les écrans smartphone */
+      /* -------------------------------------Styles pour les écrans smartphone -------------------------------------*/
       @media all and (max-width: 960px) {
           #bandeau {
               display:none;

@@ -30,7 +30,7 @@
    </div>
    <!-- Navigation
    ================================================== -->
-   <section class="row">
+   <section class="row" id="nav">
    <nav class="navbar navbar-inverse" role="navigation">
      <div class="navbar-header">
        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
@@ -70,6 +70,22 @@
    </nav>
    </section>
 
+   <!-- Section bandeau
+ ================================================== -->
+ <section class="row jumbotron" id="bandeau">
+     <div class="col-lg-12 hidden-md hidden-sm hidden-xs">
+     <img id="icone1" src="assets/img/iconebandeau1.PNG" />
+     <img id="icone2" src="assets/img/iconebandeau2.PNG" />
+     <img id="icone3" src="assets/img/iconebandeau3.PNG" />
+     <img id="icone4" src="assets/img/iconebandeau4.PNG" />
+     <img id="icone5" src="assets/img/iconebandeau5.PNG" />
+     <img id="icone6" src="assets/img/iconebandeau6.PNG" />
+     <img id="icone7" src="assets/img/iconebandeau7.PNG" />
+     <img id="icone8" src="assets/img/iconebandeau8.PNG" />
+     <img id="icone9" src="assets/img/iconebandeau9.PNG" />
+     </div>
+ </section>
+
    <!-- Caroussel
    ================================================== -->
    <section class="row">
@@ -104,21 +120,7 @@
 
      </div> <!-- Fermeture carousel slide -->
    </section>
-     <!-- Section bandeau
-   ================================================== -->
-   <section class="row jumbotron" id="bandeau">
-       <div class="col-lg-12 hidden-md hidden-sm hidden-xs">
-       <img id="icone1" src="assets/img/iconebandeau1.PNG" />
-       <img id="icone2" src="assets/img/iconebandeau2.PNG" />
-       <img id="icone3" src="assets/img/iconebandeau3.PNG" />
-       <img id="icone4" src="assets/img/iconebandeau4.PNG" />
-       <img id="icone5" src="assets/img/iconebandeau5.PNG" />
-       <img id="icone6" src="assets/img/iconebandeau6.PNG" />
-       <img id="icone7" src="assets/img/iconebandeau7.PNG" />
-       <img id="icone8" src="assets/img/iconebandeau8.PNG" />
-       <img id="icone9" src="assets/img/iconebandeau9.PNG" />
-       </div>
-   </section>
+
 
 <!-- Section Présentation
    ================================================== -->
