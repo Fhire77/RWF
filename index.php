@@ -1,4 +1,4 @@
-<?php include('header.php'); ?>
+<?php include('assets/inc/header.php'); ?>
 
    <!-- Section bandeau
  ================================================== -->
@@ -147,4 +147,4 @@
        </div>
     </section>
 
-<?php include('footer.php'); ?>
+<?php include('assets/inc/footer.php'); ?>
