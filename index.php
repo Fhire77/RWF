@@ -245,7 +245,7 @@
            window.location.hash = hash;
          });
        });
-     });
+
    </script>
  </body>
 
