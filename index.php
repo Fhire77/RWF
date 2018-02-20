@@ -1,24 +1,3 @@
-<<<<<<< HEAD
-<?php include('assets/inc/header.php'); ?>
-
-   <!-- Section bandeau
- ================================================== -->
- <section class="row jumbotron" id="bandeau">
-     <div class="col-lg-12 hidden-md hidden-sm hidden-xs">
-     <img id="icone1" src="assets/img/iconebandeau1.PNG" />
-     <img id="icone2" src="assets/img/iconebandeau2.PNG" />
-     <img id="icone3" src="assets/img/iconebandeau3.PNG" />
-     <img id="icone4" src="assets/img/iconebandeau4.PNG" />
-     <img id="icone5" src="assets/img/iconebandeau5.PNG" />
-     <img id="icone6" src="assets/img/iconebandeau6.PNG" />
-     <img id="icone7" src="assets/img/iconebandeau7.PNG" />
-     <img id="icone8" src="assets/img/iconebandeau8.PNG" />
-     <img id="icone9" src="assets/img/iconebandeau9.PNG" />
-     </div>
- </section>
-
-   <!-- Caroussel
-=======
 <?php require 'assets/inc/header.php' ?>
 
    <!-- Section bandeau================================================== -->
@@ -65,7 +44,6 @@
 
 
 <!-- Section Présentation
->>>>>>> bandeau-la-galere
    ================================================== -->
 
    <div class="article">
@@ -145,9 +123,6 @@
        <a href="#"><img src="assets/img/Logo_TD_fd_transparent2.png"/></a>
        </div>
     </section>
-<<<<<<< HEAD
-<?php include('assets/inc/footer.php'); ?>
-=======
 
      <!-- Footer
    ================================================== -->
@@ -178,4 +153,3 @@
  </body>
 
 </html>
->>>>>>> bandeau-la-galere
