@@ -77,11 +77,11 @@
       <div class="e-learning">
          <h1>Catalogue de cours e-learning :</h1>
         <div class="list-elearn">
-          <a href="#" ><img id="html" class="img-el" src="assets/img/html5-logo-EF92D240D7-seeklogo.com.png"/></a>
-          <a href="#" ><img id="css" class="img-el" src="assets/img/CSS3.png"/></a>
-          <a href="#" ><img id="javascript" class="img-el" src="assets/img/js3.png"/></a>
-          <a href="#" ><img id="php" class="img-el" src="assets/img/logo_php.png"/></a>
-          <a href="#" ><img id="python" class="img-el" src="assets/img/Python-Logo-PNG-Image.png"/></a>
+          <a href="https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3"  target="_blank"><img id="html" class="img-el" src="assets/img/html5-logo-EF92D240D7-seeklogo.com.png"/></a>
+          <a href="https://openclassrooms.com/courses/apprenez-a-creer-votre-site-web-avec-html5-et-css3"  target="_blank"><img id="css" class="img-el" src="assets/img/CSS3.png"/></a>
+          <a href="https://openclassrooms.com/courses/dynamisez-vos-sites-web-avec-javascript"  target="_blank"><img id="javascript" class="img-el" src="assets/img/js3.png"/></a>
+          <a href="https://openclassrooms.com/courses/concevez-votre-site-web-avec-php-et-mysql"  target="_blank"><img id="php" class="img-el" src="assets/img/logo_php.png"/></a>
+          <a href="https://openclassrooms.com/courses/apprenez-a-programmer-en-python"  target="_blank"><img id="python" class="img-el" src="assets/img/Python-Logo-PNG-Image.png"/></a>
         </div>
       </div>
 
