@@ -54,7 +54,7 @@
                  <li><a href="faq.php">FAQ</a></li>
              </ul>
            </li>
-           <li class="dropdown"> <a class="dropdown-toggle" data-toggle="dropdown" href="ecole.html">L'école<span class="caret"></span></a>
+           <li class="dropdown"> <a class="dropdown-toggle" data-toggle="dropdown" href="ecole.php">L'école<span class="caret"></span></a>
              <ul class="dropdown-menu">
                  <li><a href="projets.php">Projets</a></li>
                  <li><a href="equipe.php">L'équipe</a></li>
