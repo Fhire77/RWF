@@ -5,6 +5,11 @@ html, body{
   padding: 0;
 }
 
+h1, h2, h3, h4, h5, h6, p {
+  margin: 0 !important;
+  padding: 0 !important;
+}
+
 /* --------------------------------HEADER------------------------------- */
 #header{
   display: flex;
@@ -120,4 +125,20 @@ html, body{
 #img-bandeau{
   width: 100%;
   height: auto;
+}
+
+
+/* --------------------------------ARTICLE------------------------------- */
+.article{
+  text
+  text-align: center;
+  width: 100%;
+  background-color: #404d56;
+}
+
+.content{
+  max-width: 60%;
+  text-align: center;
+  margin-left: 20%;
+  padding: 5% 0% 5% 0%;
 }

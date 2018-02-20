@@ -7,82 +7,70 @@
  </div>
 
    <!-- Caroussel================================================== -->
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+  <!-- Indicators -->
+  <ol class="carousel-indicators">
+    <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+    <li data-target="#myCarousel" data-slide-to="1"></li>
+    <li data-target="#myCarousel" data-slide-to="2"></li>
+  </ol>
 
+  <!-- Wrapper for slides -->
+  <div class="carousel-inner">
+    <div class="item active">
+      <img src="assets/img/1.jpg" alt="Los Angeles">
+    </div>
 
+    <div class="item">
+      <img src="assets/img/2.jpg" alt="Chicago">
+    </div>
 
-   <div id="carousel-rwf" class="carousel slide" data-ride="carousel">
-     <ol class="carousel-indicators">
-       <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-       <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-       <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-     </ol>
-     <div class="carousel-inner">
-       <div class="carousel-item active">
-         <img class="d-block w-100" src="assets/img/1.jpg" alt="First slide">
-       </div>
-       <div class="carousel-item">
-         <img class="d-block w-100" src="assets/img/2.jpg" alt="Second slide">
-       </div>
-       <div class="carousel-item">
-         <img class="d-block w-100" src="assets/img/3.jpeg" alt="Third slide">
-       </div>
-     </div>
-     <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-       <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-       <span class="sr-only">Previous</span>
-     </a>
-     <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-       <span class="carousel-control-next-icon" aria-hidden="true"></span>
-       <span class="sr-only">Next</span>
-     </a>
-   </div>
+    <div class="item">
+      <img src="assets/img/3.jpeg" alt="New York">
+    </div>
+  </div>
+
+  <!-- Left and right controls -->
+  <a class="left carousel-control" href="#myCarousel" data-slide="prev">
+    <span class="glyphicon glyphicon-chevron-left"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="right carousel-control" href="#myCarousel" data-slide="next">
+    <span class="glyphicon glyphicon-chevron-right"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+
 
 
 <!-- Section Présentation
    ================================================== -->
-   <section class="row jumbotron" id="presentation1">
-       <div class="col-md-2">
-        <img id="img1" src="assets/img/OIUH710.png" />
-       </div>
 
-       <div class="col-md-8" id="pres1">
-           <h1>La «Rural Web Factory», c’est quoi ?</h1>
-           <p>C’est une école innovante de codage, 100% gratuite, basée à Aubeterre-sur-Dronne, à destination des demandeurs d’emploi et/ou des bénéficiaires de minimas sociaux, jeunes ou séniors, hommes ou femmes.
-               <br>
-               <br> C’est une formation courte et intensive de 6 mois qui vise, par des méthodes pédagogiques nouvelles, à apprendre à développer des sites Internet et des applications mobiles pour devenir développeur web, développeur nouvelles technologies ou informaticien de développement.
-               <br>
-               <br> La « Rural Web Factory » bénéficie du label Grande Ecole du Numérique délivré par l’Etat, lui conférant une reconnaissance nationale.</p>
-        </div>
-
-        <div class="col-md-2">
-          <img id="img2" src="assets/img/OIUH7101.png" />
-        </div>
-   </section><!-- Fermeture Section présentation1 -->
+   <div class="article">
+     <div class="content">
+       <h1>La «Rural Web Factory», c’est quoi ?</h1>
+       <p>C’est une école innovante de codage, 100% gratuite, basée à Aubeterre-sur-Dronne, à destination des demandeurs d’emploi et/ou des bénéficiaires de minimas sociaux, jeunes ou séniors, hommes ou femmes.
+        <br>
+        <br> C’est une formation courte et intensive de 6 mois qui vise, par des méthodes pédagogiques nouvelles, à apprendre à développer des sites Internet et des applications mobiles pour devenir développeur web, développeur nouvelles technologies ou informaticien de développement.
+        <br>
+        <br> La « Rural Web Factory » bénéficie du label Grande Ecole du Numérique délivré par l’Etat, lui conférant une reconnaissance nationale.</p>
+      </div>
+   </div>
 
 
-
-
-   <section class="row jumbotron" id="presentation2">
-        <div class="col-md-2 col-sm-0">
-          <img id="img3" src="assets/img/OIUH7102.png" />
-        </div>
-
-        <div class="col-md-8" id="pres2">
-          <h1>Comment s’inscrire ?</h1>
-          <p>La formation est ouverte à une promotion de 24 apprenants. Pour y accéder, vous devez remplir le formulaire d’inscription en cliquant <a href="#">ICI</a>.
-          <br> Vous devez également vous inscrire obtenir sur le site www.codecademy.fr et obtenir 20 « badges » minimum (10 badges sur le parcours « Html et CSS » et 10 badges sur le parcours et « PHP ».
-          <br>
-          <br> Vous pouvez télécharger le tuto d’utilisation de la plateforme codecademy en cliquant <a href="#">ICI</a>.
-          <br> Si vous réussissez ces tests, un entretien d’entrée vous sera proposé.
-          <br>
-          <br> Les candidatures sont ouvertes du 21 juin au 31 juillet 2017 à minuit.
-          <br> Plus d’infos sur <a href="#">simplon.co/comment-candidater</a>.</p>
-         </div>
-
-         <div class="col-md-2">
-           <img id="img4" src="assets/img/OIUH7103.png" />
-         </div>
-   </section><!-- Fermeture Section présentation2 -->
+   <div class="article">
+     <div class="content">
+       <h1>Comment s’inscrire ?</h1>
+       <p>La formation est ouverte à une promotion de 24 apprenants. Pour y accéder, vous devez remplir le formulaire d’inscription en cliquant <a href="#">ICI</a>.
+       <br> Vous devez également vous inscrire obtenir sur le site www.codecademy.fr et obtenir 20 « badges » minimum (10 badges sur le parcours « Html et CSS » et 10 badges sur le parcours et « PHP ».
+       <br>
+       <br> Vous pouvez télécharger le tuto d’utilisation de la plateforme codecademy en cliquant <a href="#">ICI</a>.
+       <br> Si vous réussissez ces tests, un entretien d’entrée vous sera proposé.
+       <br>
+       <br> Les candidatures sont ouvertes du 21 juin au 31 juillet 2017 à minuit.
+       <br> Plus d’infos sur <a href="#">simplon.co/comment-candidater</a>.</p>
+   </div>
+   </div>
 
    <!-- Section logo e-learning
    ================================================== -->
