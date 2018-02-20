@@ -1,0 +1,58 @@
+
+
+#candidature{
+  height: auto;
+    position: relative;
+    top:0 !important;
+    font-family: 'Helvetica Neue', sans-serif;
+text-align: center;
+}
+
+#candidature h1 {font-size: 63px;}
+#candidature p {font-size: 21px;width: 60%;margin-left: 18%;}
+
+#para1, #para2, #para3, #para4, #para5 {padding-top: 5%;padding-bottom: 5%;}
+
+#para1{
+  width: 100%;
+  height: auto;
+  background-color: #404d56;
+  color: white;
+  text-align: center;
+}
+
+#para2{
+  width: 100%;
+  height: auto;
+  background-color: #c4c4c4;
+  color: #333;
+  text-align: center;
+}
+
+#para3{
+  width: 100%;
+  height: auto;
+  background-color: white;
+  color: #333;
+  text-align: center;
+}
+
+#para4{
+  width: 100%;
+  height: auto;
+  background-color: #c4c4c4;
+  color:#333;
+  text-align: center;
+}
+
+#para5{
+  width: 100%;
+  height: auto;
+  background-color: #404d56;
+  color: white;
+  text-align: center;
+}
+
+@media all and (max-width:1200px) {
+  #para1, #para2, #para3, #para4, #para5 {margin-top: -20px;}
+}

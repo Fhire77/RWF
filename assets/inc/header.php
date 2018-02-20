@@ -9,7 +9,8 @@
      <title>Rural Web Factory</title>
    <meta name="description" content="Rural Web Factory">
    <link rel="stylesheet" type="text/css" href="style.css">
-   <!--<link rel="stylesheet" href="MaquetteV2.css" media="screen" /> -->
+   <link rel="stylesheet" type="text/css" href="assets/css/pages_secondaires.css">
+   <link href="https://fonts.googleapis.com/css?family=Dosis|Indie+Flower|Josefin+Sans" rel="stylesheet">
    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
 
@@ -45,12 +46,14 @@
        <ul class="nav navbar-nav">
          <li class="dropdown"> <a class="dropdown-toggle" data-toggle="dropdown" href="qui.php">Qui sommes-nous ?<span class="caret"></span></a>
            <ul class="dropdown-menu">
+               <li><a href="qui.php">La Rural Web Factory</a></li>
                <li><a href="concept.php">Concept</a></li>
                <li><a href="faq.php">FAQ</a></li>
            </ul>
          </li>
          <li class="dropdown"> <a class="dropdown-toggle" data-toggle="dropdown" href="ecole.php">L'école<span class="caret"></span></a>
            <ul class="dropdown-menu">
+               <li><a href="ecole.php">La structure</a></li>
                <li><a href="projets.php">Projets</a></li>
                <li><a href="equipe.php">L'équipe</a></li>
                <li><a href="formation.php">La formation</a></li>
@@ -59,6 +62,7 @@
          <li> <a href="#">Espace membre</a> </li>
          <li class="dropdown"> <a class="dropdown-toggle" data-toggle="dropdown" href="candidature.php">Candidatures<span class="caret"></span></a>
            <ul class="dropdown-menu">
+               <li><a href="candidature.php" id="candidater">Comment candidater ?</a></li>
                <li><a href="candidature1.php" id="interesse">La formation vous intéresse ?</a></li>
                <li><a href="candidature2.php" id="entreprise">Vous êtes une entreprise ?</a></li>
            </ul>
