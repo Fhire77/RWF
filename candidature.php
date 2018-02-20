@@ -6,60 +6,60 @@
        <div class="col-lg-12" id="para1">
          <h1>Candidatures</h1>
 
-         <h3>Dates des inscriptions : du .. au ..</h3>
-         <h3>Réunion d’information : le .. à ..h (dans les locaux de ..)</h3>
-         <h3>Début de la formation : le ..</h3>
+         <p>Dates des inscriptions : du .. au ..</p>
+         <p>Réunion d’information : le .. à ..h (dans les locaux de ..)</p>
+         <p>Début de la formation : le ..</p>
 
-         <h4>Un doute, une question ? Contactez-nous adresse@mail.fr</h4>
+         <p>Un doute, une question ? Contactez-nous adresse@mail.fr</p>
        </div>
 
        <div class="col-lg-12" id="para2">
-       <h2>Le planning</h2>
-       <h3>Du .. au 14 .. :<br/>
+       <h1>Le planning</h1>
+       <p>Du .. au 14 .. :<br/>
          Ouverture de l’appel à candidature via le site RWF<br/>
-         (via formulaire et badges)</h3><br/>
+         (via formulaire et badges)</p><br/>
 
-       <h3>Le .. à ..h :<br/>
+       <p>Le .. à ..h :<br/>
          Réunion d’information dans les locaux de ..<br/>
-         adresse : (adresse des locaux)</h3><br/>
+         adresse : (adresse des locaux)</p><br/>
 
-       <h3>Du .. au .. :<br/>
-         Présélection des candidats et convocation</h3><br/>
+       <p>Du .. au .. :<br/>
+         Présélection des candidats et convocation</p><br/>
 
-       <h3>Du .. au .. :<br/>
-         Entretiens pour constituer la promo #2</h3><br/>
+       <p>Du .. au .. :<br/>
+         Entretiens pour constituer la promo #2</p><br/>
 
-       <h3>Le .. :<br/>
-         Lancement de la 1 ère semaine de formation</h3><br/>
+       <p>Le .. :<br/>
+         Lancement de la 1 ère semaine de formation</p><br/>
        </div>
 
        <div class="col-lg-12" id="para3">
-       <h2>Pour qui ?</h2>
-       <h3>Vous avez toujours rêvé de travailler dans le web, mais vous n'avez jamais osé ?</h3><br/>
+       <h1>Pour qui ?</h1>
+       <p>Vous avez toujours rêvé de travailler dans le web, mais vous n'avez jamais osé ?</p><br/>
 
-       <h3>RWF EST POUR VOUS !</h3>
-       <h3>À condition que vous soyez, au minimum …</h3>
-       <h3>- demandeur/se d’emploi inscrit à Pôle Emploi</h3>
-       <h3>- ultra motivé(e) et autonome</h3>
-       <h3>- passionné(e) et créatif/ve</h3>
-       <h3>- tenace et agile</h3>
-       <h3>- sociable et drôle</h3>
-       <h3>- et que vous sachiez travailler en équipe !</h3>
+       <p>RWF EST POUR VOUS !</p>
+       <p>À condition que vous soyez, au minimum …</p>
+       <p>- demandeur/se d’emploi inscrit à Pôle Emploi</p>
+       <p>- ultra motivé(e) et autonome</p>
+       <p>- passionné(e) et créatif/ve</p>
+       <p>- tenace et agile</p>
+       <p>- sociable et drôle</p>
+       <p>- et que vous sachiez travailler en équipe !</p>
        </div>
 
        <div class="col-lg-12" id="para4">
-       <h2>Les conditions</h2>
-       <h3>- demandeur/se d'emploi inscrit à Pôle Emploi<br/>
+       <h1>Les conditions</h1>
+       <p>- demandeur/se d'emploi inscrit à Pôle Emploi<br/>
           - ultra motivé(e) et autonome<br/>
           - passioné(e) et créatif/ve<br/>
           - tenace et agile<br/>
           - sociable et drôle<br/>
-          - et que vous sachiez travailler en équipe !</h3>
+          - et que vous sachiez travailler en équipe !</p>
        </div>
 
       <div class="col-lg-12" id="para5">
-      <h2>Comment candidater ?</h2>
-      <h3>(Lien vers onglet "la formation vous intéresse ?")</h3>
+      <h1>Comment candidater ?</h1>
+      <p>(Lien vers onglet "la formation vous intéresse ?")</p>
       </div>
    </section>
 

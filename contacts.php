@@ -1,39 +1,38 @@
 <?php include('assets/inc/header.php'); ?>
 
-     <!-- Section #1
+     <!-- Para #1
    ================================================== -->
-   <section class="row jumbotron" id="">
-       <div class="col-lg-12">
-       <h1>Contacts</h1>
-       <h1>Adresse postale de l'école</h1>
-       <p></p>
+   <section class="row" id="candidature">
+       <div class="col-lg-12" id="para1">
+         <h1>Adresse postale de l'école</h1>
+         <p></p>
        </div>
-   </section>
 
-     <!-- Section #2
+
+     <!-- Para #2
    ================================================== -->
-   <section class="row jumbotron" id="">
-       <div class="col-lg-12">
-       <h1>Mini map de localité</h1>
-       <p></p>
+
+       <div class="col-lg-12" id="para2">
+         <h1>Mini map de localité</h1>
+         <p></p>
        </div>
-   </section>
 
-     <!-- Section #3
+
+     <!--Para #3
    ================================================== -->
-   <section class="row jumbotron" id="">
-       <div class="col-lg-12">
-       <h1>Formulaire de contact</h1>
-       <p></p>
+
+       <div class="col-lg-12" id="para3">
+         <h1>Formulaire de contact</h1>
+         <p></p>
        </div>
-   </section>
 
-     <!-- Section #4
+
+     <!-- Para #4
    ================================================== -->
-   <section class="row jumbotron" id="">
-       <div class="col-lg-12">
-       <h1>éventuelle adresse mail dédiée</h1>
-       <p></p>
+
+       <div class="col-lg-12" id="para4">
+         <h1>éventuelle adresse mail dédiée</h1>
+         <p></p>
        </div>
    </section>
 

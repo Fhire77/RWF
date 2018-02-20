@@ -9,9 +9,9 @@ text-align: center;
 }
 
 #candidature h1 {font-size: 63px;}
-#candidature p {font-size: 21px;width: 60%;margin-left: 18%;}
+#candidature p {font-size: 21px;width: 60%;margin-left: 19%;}
 
-#para1, #para2, #para3, #para4, #para5 {padding-top: 5%;padding-bottom: 5%;}
+#para1, #para2, #para3, #para4, #para5, #para6 {padding-top: 5%;padding-bottom: 5%;}
 
 #para1{
   width: 100%;
@@ -53,6 +53,14 @@ text-align: center;
   text-align: center;
 }
 
+#para6{
+  width: 100%;
+  height: auto;
+  background-color: #333;
+  color: white;
+  text-align: center;
+}
+
 @media all and (max-width:1200px) {
-  #para1, #para2, #para3, #para4, #para5 {margin-top: -20px;}
+  #para1, #para2, #para3, #para4, #para5 {}
 }
