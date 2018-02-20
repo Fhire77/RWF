@@ -48,8 +48,9 @@
 
        <div class="collapse navbar-collapse">
          <ul class="nav navbar-nav">
-           <li class="dropdown"> <a class="dropdown-toggle" data-toggle="dropdown" href="qui.php">Qui sommes-nous ?<span class="caret"></span></a>
+           <li class="dropdown"> <a class="dropdown-toggle" data-toggle="dropdown">Qui sommes-nous ?<span class="caret"></span></a>
              <ul class="dropdown-menu">
+               <li><a href="qui.php">La Rural Web Factory</a></li>
                <li><a href="concept.php">Concept</a></li>
                <li><a href="faq.php">FAQ</a></li>
              </ul>
@@ -64,8 +65,9 @@
            </li>
 
            <li> <a href="#">Espace membre</a> </li>
-           <li class="dropdown"> <a class="dropdown-toggle" data-toggle="dropdown" href="candidature.php">Candidatures<span class="caret"></span></a>
+           <li class="dropdown"> <a class="dropdown-toggle" data-toggle="dropdown">Candidatures<span class="caret"></span></a>
              <ul class="dropdown-menu">
+               <li><a href="candidature.php" id="interesse">Comment candidater ?</a></li>
                <li><a href="candidature1.php" id="interesse">La formation vous intéresse ?</a></li>
                <li><a href="candidature2.php" id="entreprise">Vous êtes une entreprise ?</a></li>
              </ul>
