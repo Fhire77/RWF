@@ -3,7 +3,7 @@
    <!-- Section bandeau================================================== -->
 
  <div class="bandeau">
-   <img src="assets/img/bandeauV4.PNG" alt="RWF-Bandeau" id="img-bandeau">
+   <img src="assets/img/bandeauV8.PNG" alt="RWF-Bandeau" id="img-bandeau">
  </div>
 
    <!-- Caroussel================================================== -->

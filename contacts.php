@@ -14,6 +14,7 @@
 
        <div class="col-lg-12" id="para2">
          <h1>Mini map de localité</h1>
+         <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2808.0625843635476!2d0.1684743157721975!3d45.2667456546176!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x47ffe8679d0bd1fb%3A0x1ac6da22ae4b9210!2sEcole+maternelle!5e0!3m2!1sfr!2sfr!4v1519141513742" width="600" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
        </div>
 
      <!--Para #3
