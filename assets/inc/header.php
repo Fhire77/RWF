@@ -64,7 +64,7 @@
              </ul>
            </li>
 
-           <li> <a href="#">Espace membre</a> </li>
+           
            <li class="dropdown"> <a class="dropdown-toggle" data-toggle="dropdown">Candidatures<span class="caret"></span></a>
              <ul class="dropdown-menu">
                <li><a href="candidature.php" id="interesse">Comment candidater ?</a></li>
