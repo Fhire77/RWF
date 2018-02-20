@@ -1,0 +1,123 @@
+html, body{
+  width: 100%;
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* --------------------------------HEADER------------------------------- */
+#header{
+  display: flex;
+  flex-direction: column;
+
+
+}
+
+#fond-head{
+  position: relative;
+  z-index: 1;
+  width: 100%;
+  height: auto;
+  border: none !important;
+}
+
+#rwf{
+  position:absolute;
+  z-index: 2;
+  width: 15%;
+  height: auto;
+  left: 8%;
+  top: 5%;
+}
+
+@media all and (max-width:1020px, min-width:840px) {
+  #rwf{
+    position:absolute;
+    z-index: 2;
+    width: 15%;
+    height: auto;
+    left: 8%;
+    top: 3.5%;
+  }
+}
+
+ @media all and (max-width:840px) {
+   #rwf{
+     position:absolute;
+     z-index: 2;
+     width: 15%;
+     height: auto;
+     left: 8%;
+     top: 2%;
+   }
+ }
+
+@media all and (min-width:840px) {
+  #reseauxsociaux1{
+    width: 3em;
+    height: auto;
+    z-index: 12;
+    position: fixed;
+    float: right;
+    top: 10em;
+    right: 0%;
+    background-color: rgb(57, 101, 236);
+  }
+
+  #reseauxsociaux2{
+    width: 3em;
+    height: auto;
+    z-index: 12;
+    position: fixed;
+    float: right;
+    top: 7em;
+    right: 0%;
+    background-color: rgb(109, 140, 235);
+  }
+}
+
+ @media all and (max-width:840px) {
+   #reseauxsociaux1{
+     width: 3em;
+     height: auto;
+     z-index: 12;
+     position: fixed;
+     bottom: 3%;
+     right: 0%;
+     background-color: rgb(57, 101, 236);
+   }
+
+   #reseauxsociaux2{
+     width: 3em;
+     height: auto;
+     z-index: 12;
+     position: fixed;
+     bottom: 7.8%;
+     right: 0%;
+     background-color: rgb(109, 140, 235);
+   }
+ }
+
+/* --------------------------------NAVBAR------------------------------- */
+
+#nav{
+  height: 90% !important;
+  top:40% !important;
+  z-index: 3;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
+
+.navbar{
+  margin-bottom: 0 !important;
+  border: none !important;
+  border-radius: 0 !important;
+}
+
+
+/* --------------------------------BANDEAU------------------------------- */
+#img-bandeau{
+  width: 100%;
+  height: auto;
+}
