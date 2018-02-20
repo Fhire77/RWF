@@ -58,7 +58,7 @@
    </div>
 
 
-   <div class="article">
+   <div class="article" id="article2">
      <div class="content">
        <h1>Comment s’inscrire ?</h1>
        <p>La formation est ouverte à une promotion de 24 apprenants. Pour y accéder, vous devez remplir le formulaire d’inscription en cliquant <a href="#">ICI</a>.
@@ -74,60 +74,58 @@
 
    <!-- Section logo e-learning
    ================================================== -->
-   <section class="row" id="accescours">
-       <div class="col-md-12">
-         <h1>Catalogue de cours e-learning</h1>
-         <p class="hidden-lg">Voici les différents thèmes des vidéos d'e-learning : </p>
-       <a href="#" ><img id="html" src="assets/img/html5-logo-EF92D240D7-seeklogo.com.png"/></a>
-       <a href="#" ><img id="css" src="assets/img/CSS3.png"/></a>
-       <a href="#" ><img id="javascript" src="assets/img/js3.png"/></a>
-       <a href="#" ><img id="php" src="assets/img/logo_php.png"/></a>
-       <a href="#" ><img id="python" src="assets/img/Python-Logo-PNG-Image.png"/></a>
-       </div>
-    </section>
+      <div class="e-learning">
+         <h1>Catalogue de cours e-learning :</h1>
+        <div class="list-elearn">
+          <a href="#" ><img id="html" class="img-el" src="assets/img/html5-logo-EF92D240D7-seeklogo.com.png"/></a>
+          <a href="#" ><img id="css" class="img-el" src="assets/img/CSS3.png"/></a>
+          <a href="#" ><img id="javascript" class="img-el" src="assets/img/js3.png"/></a>
+          <a href="#" ><img id="php" class="img-el" src="assets/img/logo_php.png"/></a>
+          <a href="#" ><img id="python" class="img-el" src="assets/img/Python-Logo-PNG-Image.png"/></a>
+        </div>
+      </div>
 
-   <!-- Section Partenaire
-   ================================================== -->
-   <section class="row " id="partenaire">
-       <div class="col-md-12">
-         <h1>Partenaires</h1>
-       </div>
+<<<<<<< HEAD
+=======
 
-       <div class="col-lg-12" id="p1">
-       <a href="#"><img src="assets/img/logo_simplon.png"/></a>
-       <a href="#"><img src="assets/img/logo-aaisc-300x263.jpeg"/></a>
-       <a href="#"><img src="assets/img/capemploi.png"/></a>
-       </div>
 
-       <div class="col-lg-12" id="p2">
-       <a href="#"><img src="assets/img/Charente_(16)_logo_2012.png"/></a>
-       <a href="#"><img src="assets/img/logo-ENSC.png"/></a>
-       <a href="#"><img src="assets/img/logo-mission-locale-300x227.png"/></a>
-       </div>
 
-       <div class="col-lg-12" id="p3">
-       <a href="#"><img src="assets/img/logo-pole-emploi.gif139x90.png"/></a>
-       <a href="#"><img src="assets/img/logo_NA-horizontal_Coul-300x129.png"/></a>
-       <a href="#"><img src="assets/img/Logo_TD_fd_transparent2.png"/></a>
-       </div>
+   <!-- Section Partenaire================================================== -->
+   <div class="partenaire">
 
-       <div class="hidden-lg col-sm-12" id="p4">
-       <a href="#"><img src="assets/img/logo_simplon.png"/></a>
-       <a href="#"><img src="assets/img/logo-aaisc-300x263.jpeg"/></a>
-       <a href="#"><img src="assets/img/capemploi.png"/></a>
-       <a href="#"><img src="assets/img/Charente_(16)_logo_2012.png"/></a>
-       <a href="#"><img src="assets/img/logo-ENSC.png"/></a>
-       <a href="#"><img src="assets/img/logo-mission-locale-300x227.png"/></a>
-       <a href="#"><img src="assets/img/logo-pole-emploi.gif139x90.png"/></a>
-       <a href="#"><img src="assets/img/logo_NA-horizontal_Coul-300x129.png"/></a>
-       <a href="#"><img src="assets/img/Logo_TD_fd_transparent2.png"/></a>
-       </div>
-    </section>
+      <h1>Partenaires</h1>
 
-     <!-- Footer
-   ================================================== -->
-<?php require 'assets/inc/footer.php' ?>
+      <div class="logo-part">
+       <a href="#"><img class="img-part" src="assets/img/logo_simplon.png"/></a>
+       <a href="#"><img class="img-part" src="assets/img/logo-aaisc-300x263.jpeg"/></a>
+       <a href="#"><img class="img-part" src="assets/img/capemploi.png"/></a>
+      </div>
+      <div class="logo-part">
+       <a href="#"><img class="img-part" src="assets/img/Charente_(16)_logo_2012.png"/></a>
+       <a href="#"><img class="img-part" src="assets/img/logo-ENSC.png"/></a>
+       <a href="#"><img class="img-part" src="assets/img/logo-mission-locale-300x227.png"/></a>
+      </div>
+      <div class="logo-part">
+       <a href="#"><img class="img-part" src="assets/img/logo-pole-emploi.gif139x90.png"/></a>
+       <a href="#"><img class="img-part" src="assets/img/logo_NA-horizontal_Coul-300x129.png"/></a>
+       <a href="#"><img class="img-part" src="assets/img/Logo_TD_fd_transparent2.png"/></a>
+      </div>
 
+    </div>
+
+
+
+
+
+     <!-- Footer ================================================== -->
+    <?php require 'assets/inc/footer.php' ?>
+
+
+
+
+
+    <!-- Scripts ================================================== -->
+>>>>>>> css
 
  </body>
 
