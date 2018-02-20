@@ -9,9 +9,9 @@ text-align: center;
 }
 
 #candidature h1 {font-size: 63px;}
-#candidature p {font-size: 21px;width: 60%;margin-left: 19%;}
+#candidature p {font-size: 21px;width: 60%;margin-left: 19% !important;}
 
-#para1, #para2, #para3, #para4, #para5, #para6 {padding-top: 5%;padding-bottom: 5%;}
+#para1, #para2, #para3, #para4, #para5, #para6 {padding-top: 5% !important;padding-bottom: 5% !important;}
 
 #para1{
   width: 100%;
