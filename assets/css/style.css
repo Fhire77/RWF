@@ -200,6 +200,13 @@ p {
  }
 
  @media all and (max-width:404px) {
+  #header{
+    clear: both;
+    display: none;
+    background-color: black;
+
+  }
+  
    .img-part{
      margin-top: 1em;
    }
