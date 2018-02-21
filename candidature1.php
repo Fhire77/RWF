@@ -5,7 +5,7 @@
    <section class="row" id="candidature">
        <div class="col-lg-12" id="para1">
          <h1>La formation vous intéresse ?</h1>
-         <ho>Comment ça marche ?</h2>
+         <h2>Comment ça marche ?</h2>
        </div>
 
 
