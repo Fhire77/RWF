@@ -64,11 +64,11 @@
        <p>La formation est ouverte à une promotion de 24 apprenants. Pour y accéder, vous devez remplir le formulaire d’inscription en cliquant <a href="#">ICI</a>.
        <br> Vous devez également vous inscrire obtenir sur le site www.codecademy.fr et obtenir 20 « badges » minimum (10 badges sur le parcours « Html et CSS » et 10 badges sur le parcours et « PHP ».
        <br>
-       <br> Vous pouvez télécharger le tuto d’utilisation de la plateforme codecademy en cliquant <a href="#">ICI</a>.
+       <br> Vous pouvez télécharger le tuto d’utilisation de la plateforme codecademy en cliquant <a href="http://www.lavalette-tude-dronne.fr/wp-content/uploads/2017/06/Tutoriel-Codecademy-v2.pdf">ICI</a>.
        <br> Si vous réussissez ces tests, un entretien d’entrée vous sera proposé.
        <br>
        <br> Les candidatures sont ouvertes du 21 juin au 31 juillet 2017 à minuit.
-       <br> Plus d’infos sur <a href="#">simplon.co/comment-candidater</a>.</p>
+       <br> Plus d’infos sur <a href="https://simplon.co/comment-candidater/">simplon.co/comment-candidater</a>.</p>
    </div>
    </div>
 
@@ -94,19 +94,19 @@
       <h1>Partenaires</h1>
 
       <div class="logo-part">
-       <a href="#"><img class="img-part" src="assets/img/logo_simplon.png"/></a>
-       <a href="#"><img class="img-part" src="assets/img/logo-aaisc-300x263.jpeg"/></a>
-       <a href="#"><img class="img-part" src="assets/img/capemploi.png"/></a>
+       <a href="https://simplon.co/" target="_blank"><img class="img-part" src="assets/img/logo_simplon.png"/></a>
+       <a href="http://www.cdc4b.com/Economie%20sud%20Charente%20-%20maison%20communautaire%20pour%20l%27emploi" target="_blank"><img class="img-part" src="assets/img/logo-aaisc-300x263.jpeg"/></a>
+       <a href="http://www.capemploi16.com/" target="_blank"><img class="img-part" src="assets/img/capemploi.png"/></a>
       </div>
       <div class="logo-part">
-       <a href="#"><img class="img-part" src="assets/img/Charente_(16)_logo_2012.png"/></a>
-       <a href="#"><img class="img-part" src="assets/img/logo-ENSC.png"/></a>
-       <a href="#"><img class="img-part" src="assets/img/logo-mission-locale-300x227.png"/></a>
+       <a href="https://www.lacharente.fr/" target="_blank"><img class="img-part" src="assets/img/Charente_(16)_logo_2012.png"/></a>
+       <a href="http://www.espace-mobile.org/" target="_blank"><img class="img-part" src="assets/img/logo-ENSC.png"/></a>
+       <a href="http://www.mlarccharente.com/" target="_blank"><img class="img-part" src="assets/img/logo-mission-locale-300x227.png"/></a>
       </div>
       <div class="logo-part">
-       <a href="#"><img class="img-part" src="assets/img/logo-pole-emploi.gif139x90.png"/></a>
-       <a href="#"><img class="img-part" src="assets/img/logo_NA-horizontal_Coul-300x129.png"/></a>
-       <a href="#"><img class="img-part" src="assets/img/Logo_TD_fd_transparent2.png"/></a>
+       <a href="https://www.pole-emploi.fr/accueil/" target="_blank"><img class="img-part" src="assets/img/logo-pole-emploi.gif139x90.png"/></a>
+       <a href="https://www.nouvelle-aquitaine.fr/" target="_blank"><img class="img-part" src="assets/img/logo_NA-horizontal_Coul-300x129.png"/></a>
+       <a href="http://www.lavalette-tude-dronne.fr/" target="_blank"><img class="img-part" src="assets/img/Logo_TD_fd_transparent2.png"/></a>
       </div>
 
     </div>
