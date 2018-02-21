@@ -64,11 +64,11 @@
        <p>La formation est ouverte à une promotion de 24 apprenants. Pour y accéder, vous devez remplir le formulaire d’inscription en cliquant <a href="#">ICI</a>.
        <br> Vous devez également vous inscrire obtenir sur le site www.codecademy.fr et obtenir 20 « badges » minimum (10 badges sur le parcours « Html et CSS » et 10 badges sur le parcours et « PHP ».
        <br>
-       <br> Vous pouvez télécharger le tuto d’utilisation de la plateforme codecademy en cliquant <a href="http://www.lavalette-tude-dronne.fr/wp-content/uploads/2017/06/Tutoriel-Codecademy-v2.pdf">ICI</a>.
+       <br> Vous pouvez télécharger le tuto d’utilisation de la plateforme codecademy en cliquant <a href="http://www.lavalette-tude-dronne.fr/wp-content/uploads/2017/06/Tutoriel-Codecademy-v2.pdf" target="_blank">ICI</a>.
        <br> Si vous réussissez ces tests, un entretien d’entrée vous sera proposé.
        <br>
        <br> Les candidatures sont ouvertes du 21 juin au 31 juillet 2017 à minuit.
-       <br> Plus d’infos sur <a href="https://simplon.co/comment-candidater/">simplon.co/comment-candidater</a>.</p>
+       <br> Plus d’infos sur <a href="https://simplon.co/comment-candidater/" target="_blank">simplon.co/comment-candidater</a>.</p>
    </div>
    </div>
 
