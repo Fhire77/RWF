@@ -29,22 +29,18 @@
     <div class="col-lg-3" style="text-align:center;" >
       <br><br>
       <i class="fas fa-code fa-7x"></i><br/><p>Formation gratuite et accessible à tous</p>
-      <br><br>
     </div>
     <div class="col-lg-3" style="text-align:center;" >
       <br><br>
       <i class="fas fa-book fa-7x"></i><br/><p>Learning by doing / by teaching</p>
-      <br><br>
     </div>
     <div class="col-lg-3" style="text-align:center;" >
       <br><br>
       <i class="far fa-handshake fa-7x"></i><br/><p>Immersions en entreprise</p>
-      <br><br>
     </div>
     <div class="col-lg-3" style="text-align:center;" >
       <br><br>
       <i class="fas fa-users fa-7x"></i><br/><p>Accompagnement à 360°</p>
-      <br><br>
     </div>
 
 </div>
