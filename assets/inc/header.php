@@ -9,9 +9,9 @@
  <title>Rural Web Factory</title>
  <meta name="description" content="Rural Web Factory">
  <link rel="stylesheet" type="text/css" href="assets/css/style.css">
- <!--<link rel="stylesheet" href="MaquetteV2.css" media="screen" /> -->
  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.1/css/bootstrap.min.css" rel="stylesheet">
  <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css" rel="stylesheet">
+ <link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
  <link rel="stylesheet" type="text/css" href="assets/css/pages_secondaires.css">
 
 
@@ -28,8 +28,8 @@
    <div id="header">
      <a href="index.php"><img src="assets/img/logo-rwf.png" alt="" id="rwf"/></a>
      <img src="assets/img/header3.jpg" alt="" id="fond-head">
-     <a id="reseauxsociaux1" class="btn btn-default" href="https://fr-fr.facebook.com/RuralWebFactory/"><i class="fa fa-facebook fa-2x"></i></a>
-     <a id="reseauxsociaux2" class="btn btn-default" href="https://twitter.com/ruralwebfactory"><i class="fa fa-twitter fa-2x"></i></a>
+     <a id="reseauxsociaux1" class="btn btn-default" href="https://fr-fr.facebook.com/RuralWebFactory/"><i class="fab fa-facebook fa-2x"></i></a>
+     <a id="reseauxsociaux2" class="btn btn-default" href="https://twitter.com/ruralwebfactory"><i class="fab fa-twitter fa-2x"></i></a>
    </div>
 
 
@@ -64,7 +64,8 @@
              </ul>
            </li>
 
-           
+           <li> <a href="elearning.php">E-learning</a> </li>
+           <li> <a href="espace-membre.php">Espace membre</a> </li>
            <li class="dropdown"> <a class="dropdown-toggle" data-toggle="dropdown">Candidatures<span class="caret"></span></a>
              <ul class="dropdown-menu">
                <li><a href="candidature.php" id="interesse">Comment candidater ?</a></li>

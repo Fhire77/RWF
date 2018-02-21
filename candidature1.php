@@ -16,7 +16,7 @@
          <h1>Etape 1 : Candidature en ligne</h1>
          <p>- Passer des badges sur code academy</p>
          <p>- Répondre aux questions du formulaire</p>
-         <p>LIEN DU FORMULAIRE</p>
+         <p><a href="#">LIEN DU FORMULAIRE</a></p>
        </div>
 
 

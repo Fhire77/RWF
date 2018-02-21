@@ -1,10 +1,12 @@
 /* -----------------------------------------  ID DE BASE DES PAGES PARTENAIRES --------------------------- */
 #candidature{
   height: auto;
-    position: relative;
-    top:0 !important;
-    font-family: 'Helvetica Neue', sans-serif;
-text-align: center;
+  width:100%;
+  margin: 0;
+  position: relative;
+  top:0 !important;
+  font-family: 'Helvetica Neue', sans-serif;
+  text-align: center;
 }
 
 #candidature h1 {font-size: 63px;}
@@ -13,7 +15,7 @@ text-align: center;
 #para1, #para2, #para3, #para4, #para5, #para6 {padding-top: 5% !important;padding-bottom: 5% !important;}
 
 #para1{
-  width: 100%;
+
   height: auto;
   background-color: #404d56;
   color: white;
@@ -62,4 +64,26 @@ text-align: center;
 
 @media all and (max-width:1200px) {
   #para1, #para2, #para3, #para4, #para5 {}
+}
+
+/* --------- TROMBINOSCOPE ---------*/
+
+.appr{
+    border: 15px solid transparent;
+    width: 15%; height: 10%;
+}
+
+.format{
+    border: 15px solid transparent;
+}
+
+.appr p, .format p{
+    color: white;
+    font-size:12px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.format p > img{
+    width: 30%; height: 20%;
 }

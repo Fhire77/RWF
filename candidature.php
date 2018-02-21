@@ -59,7 +59,7 @@
 
       <div class="col-lg-12" id="para5">
       <h1>Comment candidater ?</h1>
-      <p>(Lien vers onglet "la formation vous intéresse ?")</p>
+      <p><a href="candidature1.php">C'est par ici !</a></p>
       </div>
    </section>
 

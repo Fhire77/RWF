@@ -2,8 +2,8 @@
 
      <!-- Section #1
    ================================================== -->
-   <section class="row jumbotron" id="">
-       <div class="col-lg-12">
+   <section class="row" id="candidature">
+       <div class="col-lg-12" id="para1">
        <h1>L'école</h1>
 
        <p>Il serait intéressant de montrer les locaux, donner un bref descriptif des différentes pièces, agrémenté de photos. </p>
