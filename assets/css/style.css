@@ -207,9 +207,14 @@ p {
 
   }
   
+  .bandeau{
+    display: none;
+  }
+
    .img-part{
      margin-top: 1em;
    }
+
    .logo-part{
      clear: both;
      display: flex;
