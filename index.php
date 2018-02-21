@@ -61,7 +61,7 @@
    <div class="article" id="article2">
      <div class="content">
        <h1>Comment s’inscrire ?</h1>
-       <p>La formation est ouverte à une promotion de 24 apprenants. Pour y accéder, vous devez remplir le formulaire d’inscription en cliquant <a href="#">ICI</a>.
+       <p>La formation est ouverte à une promotion de 24 apprenants. Pour y accéder, vous devez remplir le formulaire d’inscription en cliquant <a href="#" target="_blank">ICI</a>.
        <br> Vous devez également vous inscrire obtenir sur le site www.codecademy.fr et obtenir 20 « badges » minimum (10 badges sur le parcours « Html et CSS » et 10 badges sur le parcours et « PHP ».
        <br>
        <br> Vous pouvez télécharger le tuto d’utilisation de la plateforme codecademy en cliquant <a href="http://www.lavalette-tude-dronne.fr/wp-content/uploads/2017/06/Tutoriel-Codecademy-v2.pdf" target="_blank">ICI</a>.
