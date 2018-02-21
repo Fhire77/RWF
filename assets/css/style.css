@@ -10,6 +10,13 @@ h1, h2, h3, h4, h5, h6, p {
   padding: 1em !important;
 }
 
+p {
+  font-size: 21px;
+  width: 100%;
+
+}
+
+
 /* --------------------------------HEADER------------------------------- */
 #header{
   display: flex;
