@@ -5,9 +5,8 @@
    <section class="row" id="candidature">
        <div class="col-lg-12" id="para6">
          <h1>Vous êtes une entreprise ?</h1>
-         <h2>Une fiche qui reprend les différents thèmes :</h2>
-         <p>Recrutez vos compétences en numérique et développement web<br/>
-            Des profils motivés compétents et opérationnels</p>
+         <h2>Recrutez vos compétences en numérique et développement web<br/>
+            Des profils motivés compétents et opérationnels</h2>
        </div>
 
 
@@ -47,7 +46,7 @@
          <h1>2) Une légitimité reconnue pour la formation</h1>
          <div class="col-lg-4" style="text-align:center;" >
            <br><br>
-           <i class="far fa-building fa-7x"></i><br/><p>Label Grande Ecole du Numérique délivré par l'Etat</p>
+           <i class="fas fa-university fa-7x"></i><br/><p>Label Grande Ecole du Numérique délivré par l'Etat</p>
            <br><br>
          </div>
          <div class="col-lg-4" style="text-align:center;" >
@@ -113,9 +112,21 @@
 
        <div class="col-lg-12" id="para5">
          <h1>5) Une forte employabilité</h1>
-         <p>(75% d'employabilité à 3 mois post-formation..<br/>
-             opérationnalité immédiate des apprenants en milieu professionnel<br/>
-             proximité avec les entreprises qui assure la bonne adéquation entre les compétences développées et les profils recherchés aujourd'hui par les entreprises.)<br/></p>
+         <div class="col-lg-4" style="text-align:center;" >
+           <br><br>
+           <i class="fas fa-briefcase fa-7x"></i><br/><p>75% d'employabilité à 3 mois post-formation</p>
+           <br><br>
+         </div>
+         <div class="col-lg-4" style="text-align:center;" >
+           <br><br>
+           <i class="fas fa-wrench fa-7x"></i><br/><p>Opérationnalité immédiate des apprenants en milieu professionnel</p>
+           <br><br>
+         </div>
+         <div class="col-lg-4" style="text-align:center;" >
+           <br><br>
+           <i class="fas fa-thumbtack fa-7x"></i><br/><p>Proximité avec les entreprises qui assure la bonne adéquation entre les compétences développées et les profils recherchés aujourd'hui par les entreprises</p>
+           <br><br>
+         </div>
        </div>
    </section>
 

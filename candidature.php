@@ -15,7 +15,7 @@
 
        <div class="col-lg-12" id="para2">
        <h1>Le planning</h1>
-       <p>Du .. au 14 .. :<br/>
+       <p>Du .. au .. :<br/>
          Ouverture de l’appel à candidature via le site RWF<br/>
          (via formulaire et badges)</p><br/>
 
