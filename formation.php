@@ -10,7 +10,7 @@
             - être passionné d'informatique (aptitudes minimales et forte curiosité).<br/>
             - être TRES TRES motivé.</p><br/>
 
-         <p>Le nombre de candidats retenus ?</p>
+         <p>24 candidats ont été retenus lors de la première session.</p>
        </div>
 
 
@@ -52,6 +52,7 @@
       ================================================== -->
 
        <div class="col-lg-12" id="para5">
+         <h1>Mais encore ? </h1>
          <p>Certains auront la possibilité de mettre à profit des compétences techniques acquises pendant la formation pour exercer d’autres métiers : chargé.e de projets numérique, assitant.e formateur.rice...</p>
          <p>L’objectif pour ces apprenant.e.s est d’acquérir un bagage technique suffisant pour se positionner sur les nombreuses offres d’emplois du numérique à venir et également de promouvoir l’entrepreneuriat au sein de la région. Ils développent des capacités d'autonomie, d'adaptation et d'auto-formation qui leur garantissent une opérationnalité immédiate en milieu professionnel.</p>
        </div>
