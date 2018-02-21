@@ -44,7 +44,7 @@ p {
 
 @media all and (max-width:1020px) and (min-width:600px) {
   #rwf{
-    position:absolute;
+    position: absolute;
     z-index: 2;
     width: 15%;
     height: auto;
@@ -55,7 +55,7 @@ p {
 
  @media all and (max-width:600px) {
    #rwf{
-     position:absolute;
+     position: absolute;
      z-index: 2;
      width: 15%;
      height: auto;
@@ -137,7 +137,7 @@ p {
 
 /* --------------------------------ARTICLE------------------------------- */
 .article{
-  text
+
   text-align: center;
   width: 100%;
   background-color: #404d56;
@@ -156,6 +156,27 @@ p {
   border-top: 8px dotted white;
 }
 
+@media all and (min-width:405px) and (max-width:900px) {
+  .content{
+    color: white;
+    max-width: 90%;
+    text-align: left;
+    margin-left: 5%;
+    padding: 5% 0% 5% 0%;
+    color: white;
+  }
+}
+
+ @media all and (max-width:404px) {
+   .content{
+     color: white;
+     max-width: 90%;
+     text-align: left;
+     margin-left: 5%;
+     padding: 5% 0% 5% 0%;
+     color: white;
+   }
+ }
 /* --------------------------------E-learning------------------------------- */
 .e-learning{
   padding: 2.5% 0% 5% 0%;
@@ -195,19 +216,31 @@ p {
      clear: both;
      display: flex;
      flex-direction: column;
-     justify-content: center;
+     align-items: center;
    }
  }
 
  @media all and (max-width:404px) {
+  #header{
+    clear: both;
+    display: none;
+    background-color: black;
+
+  }
+  
+  .bandeau{
+    display: none;
+  }
+
    .img-part{
      margin-top: 1em;
    }
+
    .logo-part{
      clear: both;
      display: flex;
      flex-direction: column;
-     padding-left: 0%;
+     align-items: center;
    }
  }
 
