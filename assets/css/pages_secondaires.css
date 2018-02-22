@@ -20,32 +20,32 @@
 #para1{
 
   height: auto;
-  background-color: #404d56;
-  color: white;
+  background-color: #888;
+  color: #FFF;
   text-align: center;
 }
-
+*
 #para2{
   width: 100%;
   height: auto;
-  background-color: #c4c4c4;
-  color: #333;
-  text-align: center;
+  background-color: white;
+  color: #AAA;
+  font-weight: bolder;
 }
 
 #para3{
   width: 100%;
   height: auto;
-  background-color: white;
-  color: #333;
-  text-align: center;
+  background-color: #444;
+  color: #fff;
+  
 }
 
 #para4{
   width: 100%;
   height: auto;
   background-color: #c4c4c4;
-  color:#333;
+  color:black;
   text-align: center;
 }
 
