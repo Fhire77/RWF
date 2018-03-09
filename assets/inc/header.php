@@ -74,6 +74,7 @@
              </ul>
            </li>
            <li> <a href="contacts.php">Contacts</a> </li>
+           <li> <a href="entreprise.php" >Entreprises</a> </li>
          </ul>
        </div>
      </nav>
