@@ -1,6 +1,6 @@
 <?php
     $host_name = "localhost";
-    $database = "rwf_trombi"; 
+    $database = "rwf"; 
     $user_name = "root"; 
     $password = ""; 
     $connect = mysqli_connect($host_name, $user_name, $password, $database);

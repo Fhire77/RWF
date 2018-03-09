@@ -23,7 +23,7 @@
        <div class="col-lg-12" id="para3">
          <h1>Formulaire de contact</h1>
          <br /><br />
-        <form name="contact" method="post" action="mailto:" enctype="text/plain">
+        <form name="contact" method="post" action="mail" enctype="text/plain">
 
          <input type="text" name="nom" placeholder="Nom" style="width:450px;height:3em;"/>  <br/><br/>
          <input type="text" name="prenom"  placeholder="Prénom" style="width:450px;height:3em;"/>

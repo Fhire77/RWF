@@ -1,0 +1,1 @@
+<?php mail('valentin.delapre@gmail.com', 'Demande de contact', '$_POST["nom"]["prenom"]["email"]["tel"]["user_message"]');
