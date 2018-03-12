@@ -28,8 +28,8 @@
    <div id="header">
      <a href="index.php"><img src="assets/img/logo-rwf.png" alt="" id="rwf"/></a>
      <img src="assets/img/header.jpg" alt="" id="fond-head">
-     <a id="reseauxsociaux1" class="btn btn-default" href="https://fr-fr.facebook.com/RuralWebFactory/"><i class="fab fa-facebook fa-2x"></i></a>
-     <a id="reseauxsociaux2" class="btn btn-default" href="https://twitter.com/ruralwebfactory"><i class="fab fa-twitter fa-2x"></i></a>
+     <a id="reseauxsociaux1" target="_blank" class="btn btn-default" href="https://fr-fr.facebook.com/RuralWebFactory/"><i class="fab fa-facebook fa-2x"></i></a>
+     <a id="reseauxsociaux2" target="_blank" class="btn btn-default" href="https://twitter.com/ruralwebfactory"><i class="fab fa-twitter fa-2x"></i></a>
    </div>
 
 
